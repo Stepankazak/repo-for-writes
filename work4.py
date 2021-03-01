@@ -9,3 +9,4 @@ while number > 10:
 print(big)
 print('Конец программы')
 
+
