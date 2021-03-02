@@ -9,6 +9,7 @@ if cash > minus:
     people = int(input('Введите численность сотрудников фирмы: '))
     alone = cash // people
     print('Каждый сотрудник заработал фирме', alone, 'руб.')
+
 else:
     print('Фирма отработала с убытком')
     
